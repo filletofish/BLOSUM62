@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MakeBLOSUM()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ MakeBLOSUM_ID1_ID2
+comment1.params=
+comment1.target=void\ countAAinCols()
+comment2.params=
+comment2.target=void\ calcObservedSubst()
+comment2.text=\ public\ void\ calcObservedSubst()\n\ \ \ count\ all\ possible\ substitutions\ in\ each\ column\ in\ aaCountInCols[][]\n\ \ \ calc\ as\ probabilities\ \=\ each\ cell\ count\ /\ total\n
+comment3.params=
+comment3.target=void\ calcAAMargProb()
+comment4.params=
+comment4.target=void\ calcExpectedSubst()
+comment4.text=\ public\ void\ calcExpectedSubst()\n\ \ multiply\ marginal\ probabilities\ to\ get\ Expected\ substitution\ rates\nif\ it\ were\ random
+comment5.params=
+comment5.target=void\ calcOddsRatio()
+comment5.text=\ public\ void\ calcOddsRatio()\ndivide\ Observed\ substitution\ rate\ by\ Expected\ substitution\ rates
+comment6.params=
+comment6.target=void\ calcLogOddsRatio()
+comment6.text=\ public\ void\ calcLogOddsRatio()\nlogOddsRatio\ \=\ 2\ *\ log2(oddsRatio)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

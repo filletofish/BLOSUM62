@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OutputMatrices()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ OutputMatrices\r\n
+comment1.params=filename
+comment1.target=void\ openOutFile(java.lang.String)
+comment1.text=\ public\ void\ openOutFile()\r\n\ reads\ the\ sequences1_20.csv\ file\r\n
+comment2.params=mtxName\ labelTop\ labelLeft\ mtx
+comment2.target=void\ write2DMatrix(java.lang.String,\ char[],\ char[],\ int[][])
+comment3.params=mtxName\ labelTop\ labelLeft\ mtx
+comment3.target=void\ write2DMatrix(java.lang.String,\ char[],\ char[],\ double[][])
+comment4.params=mtxName\ labelLeft\ mtx
+comment4.target=void\ write1DMatrix(java.lang.String,\ char[],\ double[])
+comment5.params=
+comment5.target=void\ closeOutFile()
+numComments=6
